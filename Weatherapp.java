@@ -1,5 +1,3 @@
-package com.example.weather;
-
 import com.fasterxml.jackson.databind.JsonNode;
 
 import java.io.BufferedReader;
